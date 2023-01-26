@@ -1,0 +1,42 @@
+video {
+    height: 100%;
+    width: 100%;
+}
+
+nav {
+    background-color: #000000;
+}
+
+.colorpick {
+    height: 100%;
+}
+
+#whiteboard-container video {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+#whiteboard {
+    display: block;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+}
+
+.participantDiv {
+    height: 50%;
+    width: 100%;
+}
+
+.webcam-feed-col {
+    height: 80vh;
+}
+
+#webcam-feed-container {
+    height: 80vh;
+}
+
+.container-canvas-webcam {
+    height: 100vh;
+}
